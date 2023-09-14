@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64fbe62a560b39ff5144bc57"
+  },
+  "name": "Mohamed",
+  "age": 20,
+  "email": "mohamed@example.com",
+  "purchased_products": []
+},
+{
+  "_id": {
+    "$oid": "64fbe677560b39ff5144bc58"
+  },
+  "name": "Ahmed",
+  "age": 21,
+  "email": "ahmed@example.com",
+  "purchased_products": []
+},
+{
+  "_id": {
+    "$oid": "64fbe693560b39ff5144bc59"
+  },
+  "name": "Mahmoud",
+  "age": 22,
+  "email": "mahmoud@example.com",
+  "purchased_products": []
+},
+{
+  "_id": {
+    "$oid": "64fbe6ac560b39ff5144bc5a"
+  },
+  "name": "Sara",
+  "age": 23,
+  "email": "sara@example.com",
+  "purchased_products": []
+},
+{
+  "_id": {
+    "$oid": "64fbe6da560b39ff5144bc5b"
+  },
+  "name": "Fatima",
+  "age": 24,
+  "email": "fatima@example.com",
+  "purchased_products": []
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64fbfa72560b39ff5144bc5c"
+  },
+  "title": "backpack",
+  "price": 100,
+  "rating": 4,
+  "number_of_stocks": 10
+},
+{
+  "_id": {
+    "$oid": "64fbfaaa560b39ff5144bc5d"
+  },
+  "title": "Hair Dryer",
+  "price": 150,
+  "rating": 4.1,
+  "number_of_stocks": 10
+},
+{
+  "_id": {
+    "$oid": "64fbfad1560b39ff5144bc5e"
+  },
+  "title": "RGB Keyboard",
+  "price": 200,
+  "rating": 4.2,
+  "number_of_stocks": 10
+},
+{
+  "_id": {
+    "$oid": "64fbfbbc560b39ff5144bc5f"
+  },
+  "title": "Binder",
+  "price": 200,
+  "rating": 4.6,
+  "number_of_stocks": 10
+}]
